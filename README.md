@@ -1,4 +1,4 @@
-# Organiramme
+# Organigramme
 L'organigramme du laboratoire de mathématiques Paul Painlevé de Lille
 
 ## LaTeX
